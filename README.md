@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science/Analytics/Machine Learning/AI
 - 🌱 I’m currently learning how to use GitHub and revising all I learned in Grad School in preparation for my next role.
 - 💞️ I’m looking to collaborate on some cool machine learning and deep learning projects.
-- 📫 How to reach me via LinkedIn
+- 📫 How to reach me: Via LinkedIn
 - ⚡ Fun fact: I love playing badminton.
 
 <!---
